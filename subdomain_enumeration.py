@@ -31,4 +31,4 @@ class FindSubdomains:
                     print("[+] Discovered subdomain ==> " + test_url)
 
 
-subdomains = FindSubdomains("10.0.2.6/mutillidae")
+subdomains = FindSubdomains("[TARGET URL]")
