@@ -1,5 +1,5 @@
 # CyKit Series  
-## 13) Subdomain Enumeration
+## 14) Subdomain Enumeration
 A pthon program in cybersecurity kit series that finds potential subdomains within the target url.
 
 ### Requirements :
